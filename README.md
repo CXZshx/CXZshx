@@ -26,4 +26,6 @@ Student prepared to use my skills and passion to further a company's mission. Te
 18 years old, Spanish and English students of database administrator and Front-End. More than 5 years of design experience. Founder of the community New.World(me); Discord.
 </h4>
 
-![GitHub Stats](https://github-readme-stats.vercel.api username=CXZshx&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxzshx&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxzshx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
