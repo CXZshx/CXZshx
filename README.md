@@ -1,4 +1,4 @@
-<h3 align="center">Design UX/UI and Front-End.</h3>
+<h2 align="center">Design UX/UI and Front-End.</h2>
    
 </p align="center">
 <p align="center">
