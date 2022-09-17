@@ -2,8 +2,8 @@
    
 </p align="center">
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/745465130929750168/1020530603583619192/20220917_000407.png" />
-  </p align="center">
+<img src="https://i.pinimg.com/originals/ea/4e/96/ea4e96954a64c32610efef61ae9f14e5.gif" />
+</p align="center">
   
   
 <h1 align="center">
